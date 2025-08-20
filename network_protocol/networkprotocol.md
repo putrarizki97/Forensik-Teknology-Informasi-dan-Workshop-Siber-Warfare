@@ -112,6 +112,6 @@ Alur sederhana Internet:
 
 ---
 
-✍️ Dibuat Oleh : Marthen Frikaldo Antaribaba
+✍️ Dibuat Oleh : Putra Rizki. F
 
 Untuk dokumentasi belajar & riset..  
