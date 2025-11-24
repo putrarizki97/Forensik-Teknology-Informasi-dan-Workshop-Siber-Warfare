@@ -7,22 +7,20 @@ Repository ini berisi dokumentasi hasil scanning Nmap pada host 192.168.100.10.
 ## 🖼️ Screenshot Hasil Scan
 
 ### 📌 Screenshot 1
-<img src="c:\Users\Putra Rizki. F\Documents\GitHub\Forensik-Teknology-Informasi-dan-Workshop-Siber-Warfare\metasploitable\gambar\gambar 1.png" width="800">
+<img src="gambar\gambar 1.png" width="800">
 
 ---
 
 ### 📌 Screenshot 2
-<img src="c:\Users\Putra Rizki. F\Documents\GitHub\Forensik-Teknology-Informasi-dan-Workshop-Siber-Warfare\metasploitable\gambar\gambar 2.png" width="800">
+<img src="gambar\gambar 2.png" width="800">
 
 ---
 
 ### 📌 Screenshot 3
-<img src="c:\Users\Putra Rizki. F\Documents\GitHub\Forensik-Teknology-Informasi-dan-Workshop-Siber-Warfare\metasploitable\gambar\gambar 3.png" width="800">
+<img src="gambar/gambar 3.png" width="800">
 
 ---
 
-## 📊 Contoh Format Tabel (seperti screenshot)
-<img src="images/tabel_contoh.jpg" width="600">
 
 ---
 
