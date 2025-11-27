@@ -20,7 +20,7 @@ Semua website dipastikan membutuhkan access control. Oleh karena itu aturan dan 
 
  ![](Gambar/gambar2.png)
  
-3. Kemudian menuju halaman keranjang untuk dapat melihat yang telah ditambahkan yaitu aple juice dan apple pomance masing masing 1 buah.
+3. Kemudian menuju halaman keranjang untuk dapat melihat yang telah ditambahkan yaitu carrot juice dan Eggfruit Juice masing masing 1 buah.
 
  ![](Gambar/gambar3.png)
 
@@ -111,7 +111,7 @@ Semua website dipastikan membutuhkan access control. Oleh karena itu aturan dan 
 
  ![](Gambar/gambar25.png)
 
-10. Kemudian saya mencoba untuk login menggunakan "admin1123" disini saya berhasil untuk login sebagai admin dan dapat mengakses keranjang serta profile dari akun admin yang ada di dalam owasp juice shop.
+10. Kemudian saya mencoba untuk login menggunakan "admin123" disini saya berhasil untuk login sebagai admin dan dapat mengakses keranjang serta profile dari akun admin yang ada di dalam owasp juice shop.
 
 ![](Gambar/gambar26.png)
 
